@@ -1,4 +1,4 @@
-# Termina_Header_Text
+# Terminal_Header_Text
 
 Open your terminal with CTRL+ALT+T and type as
 
